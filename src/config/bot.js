@@ -25,8 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Void MC is the ultimate all-in-one Discord bot designed for Minecraft communities. It seamlessly blends server moderation, live Minecraft stats, and player lookups with high-energy features like a custom economy, music streaming, and a support ticket system.Reliable, feature-packed, and easy to set up—it’s the only tool you need to manage your community and game server in one place.                  
-               Made By - TITANRAJ",
+        name: "Void MC is the ultimate all-in-one Discord bot designed by TITANRAJ. ",
         // Activity type number (0 = Playing).
         type: 3, 
       },
